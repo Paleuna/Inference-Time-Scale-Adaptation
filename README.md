@@ -1,8 +1,10 @@
 # Are More Tokens Rational? Inference-Time Scaling in Language Models as Adaptive Resource Rationality
 
-**arXiv 2026** · Zhimin Hu, Riya Roshan, and Sashank Varma
+**CogSci 2026** · Zhimin Hu, Riya Roshan, and Sashank Varma
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-brightgreen)](https://arxiv.org/abs/2602.10329) [![Cite](https://img.shields.io/badge/Cite-BibTeX-blue)](#citation)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-brightgreen)](https://arxiv.org/abs/2602.10329) 
+[![Cite](https://img.shields.io/badge/Cite-BibTeX-blue)](#citation)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **TL;DR.** We use a Variable Attribution Task to ask whether language models adapt their reasoning to task complexity. Models identify the variables that determine trial outcomes under a specified logical function. As the number of candidate variables and trials changes, the paper reports a shift from brute-force search toward analytic elimination. Instruction-tuned models struggle more with XOR and XNOR, while reasoning models remain more robust.
 
